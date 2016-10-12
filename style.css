@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(39, 174, 96) !important;
+}
+
+.quote-box {
+  margin: 150px auto 0 auto;
+  width: 700px;
+  padding: 50px 100px 50px 100px;
+  background-color: white;
+  border-radius: 3px;
+  color: rgb(39, 174, 96);
+}
+
+.quote-text {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: justified;
+}
+
+.text {
+  margin-left: 10px;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+.fa-twitter:hover {
+  cursor: pointer;
+  background-color: rgb(39, 200, 96);
+}
+
+.buttons a:hover {
+  text-decoration: none;
+  cursor: default;
+}
+
+.quote-author {
+  font-size: 16px;
+}
+
+.fa-twitter{
+  color: white;
+  background-color: rgb(39, 174, 96);
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.new-quote {
+  text-align: right;
+  margin: 0 0 0 349px;
+  background-color: rgb(39, 174, 96);
+  color: white;
+  padding: 12px 20px 12px 20px;
+  border-radius: 3px;
+}
+
+.new-quote:hover {
+  cursor: pointer;
+  background-color: rgb(39, 200, 96);
+}
+
+.footer {
+  color: white;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
